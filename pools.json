@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "ferritecoin.net",
+        "addresses": [
+            "FerriteBurnxxxxxxxxxxxxxxxxxzTe9HQ"
+        ],
+        "tags": [
+            "/Ferrite-Burn/"
+        ],
+        "link": "https://ferritecoin.org"
+    },
+    {
+        "id": 2,
+        "name": "Mining Dutch",
+        "addresses": [
+            "FdMTfaaqPzTCvw2jKY4cfnXP3BeXrXddfm"
+        ],
+        "tags": [
+            "/Mining-Dutch/"
+        ],
+        "link": "https://www.mining-dutch.nl"
+    },
+    {
+        "id": 3,
+        "name": "ZPool",
+        "addresses": [
+            "FnDtsEGTc5MmxWZtoRd8hp23rYsqY2d5qE"
+        ],
+        "tags": [
+            "/Z-Pool/"
+        ],
+        "link": "https://zpool.ca"
+    },
+]
